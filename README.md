@@ -28,23 +28,4 @@ the [FakeStore API](https://fakestoreapi.com/docs).
 npm install
 npm run dev
 ```
-<!-- 
-Open http://localhost:3000. -->
-
-<!-- ## Deploy
-
-1. Create a GitHub repo and push this folder:
-   ```bash
-   git init && git add . && git commit -m "Initial commit"
-   git branch -M main
-   git remote add origin https://github.com/<you>/parcel-store.git
-   git push -u origin main
-   ```
-2. Go to https://vercel.com/new, import the repo, and click Deploy
-   (no environment variables needed).
-
-## Font
-
-Proxima Nova Regular is loaded locally from `src/fonts/proximanova_regular.ttf`
-with `next/font/local` (see `src/app/layout.jsx`). Check the license in
-`src/fonts/COPYRIGHT.txt` before publishing the repo publicly. -->
+And click the link in Local/Network
