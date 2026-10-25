@@ -1,8 +1,5 @@
 # Parcel — Next.js product showcase
 
-Take-home assignment: a small store built with the Next.js App Router, using
-the [FakeStore API](https://fakestoreapi.com/docs).
-
 ## Requirements checklist
 
 | Requirement | Where |
